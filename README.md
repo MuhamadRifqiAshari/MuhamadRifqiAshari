@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://MuhamadRifqiAshari.io)
 <h1 align="center">Hi 👋, I'm Muhamad Rifqi Ashari</h1>
-<h3 align="center">Belajar membuat coding dan UI/UX, Membuat saya semangat.</h3>
+<h3 align="center">Belajar membuat coding dan UI/UX, Membuat saya semangat. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> </p> </h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadrifqiashari&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadrifqiashari" /> </p>
@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/r1f.as/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r1f.as/?hl=en" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucms8-mysfa20guuclvbm0xa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucms8-mysfa20guuclvbm0xa" height="30" width="40" /></a>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
